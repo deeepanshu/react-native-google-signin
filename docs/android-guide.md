@@ -35,7 +35,7 @@ buildscript {
 ...
     dependencies {
         classpath 'com.android.tools.build:gradle:3.1.2' // <--- use this version or newer
-        classpath 'com.google.gms:google-services:3.2.1' // <--- use this version or newer
+        classpath 'com.google.gms:google-services:4.3.0' // <--- use this version or newer
     }
 ...
 allprojects {
